@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPSMarker</string>
+    <string name="Edit_Locations">Edit Location</string>
+    <string name="Saved_Locations">Saved Locations</string>
+    <string name="New_Location">New Location</string>
+    <string name="GPSMarker">GPSMarker</string>
+</resources>
